@@ -28,7 +28,7 @@ def main():
     )
     # Clean various medical codes
     df.loc[:, "discharge_disposition_id"] = (df.discharge_disposition_id
-                                            .apply(lambda x: "Discharged to Home" if x==1 else "Other")
+                                            .apply(lambda x: "Discharged to Home" if x==1 else "Other"))
 
     df.loc[:, "admission_source_id"] = df["admission_source_id"].apply(lambda x: x if x in ["Emergency", "Referral"] else "Other")
     # Re-code Medical Specialties and Primary Diagnosis
