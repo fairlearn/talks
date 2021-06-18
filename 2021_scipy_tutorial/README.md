@@ -14,8 +14,7 @@ Fairness in AI systems is an interdisciplinary field of research and practice th
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HDiMzQ_P2NHT66OuAq1bBiBfCyNtCXlO)
 
-For this tutorial, we encourage participants to run the tutorial notebook through either Google Colab or 
-Binder to avoid issues with local environment set-up. Click on the either button above to launch the free compute environment for executing the Jupyter notebook and writing Python code. 
+For this tutorial, we encourage participants to run the tutorial notebook through Google Colab to avoid issues with local environment set-up. Click on the either button above to launch the free compute environment for executing the Jupyter notebook and writing Python code. 
 
 
 ### Option 2: Local Set-Up
