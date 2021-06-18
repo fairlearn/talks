@@ -50,7 +50,6 @@ The processed dataset we use is located in `data/diabetic_preprocessed.csv`. If 
 
 Fairlearn is built on top of popular Python data science libraries, such as [Pandas](https://pandas.pydata.org/) and [Scikit-Learn](https://scikit-learn.org/stable/index.html).  
 
-## Other Fairness Resources
 
 
 
