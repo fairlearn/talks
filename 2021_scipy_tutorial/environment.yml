@@ -1,0 +1,13 @@
+name: fairlearn-scipy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - fairlearn=0.6.2
+  - jupyter
+  - seaborn
+  - scikit-learn>=0.23.0
+  - pip:
+      - model-card-toolkit
