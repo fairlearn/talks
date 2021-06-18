@@ -8,7 +8,7 @@ Fairness in AI systems is an interdisciplinary field of research and practice th
 
 ### Option 1: Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HDiMzQ_P2NHT66OuAq1bBiBfCyNtCXlO)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fairlearn/talks/blob/main/2021_scipy_tutorial/fairness-in-AI-systems.ipynb)
 
 For this tutorial, we encourage participants to run the tutorial notebook through Google Colab to avoid issues with local environment set-up. Click on the button above to launch the free compute environment for executing the Jupyter notebook and writing Python code. 
 
