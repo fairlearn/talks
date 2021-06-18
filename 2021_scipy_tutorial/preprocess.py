@@ -41,10 +41,14 @@ def main():
         regex={
             "[7][1-3][0-9]": "Musculoskeltal Issues",
             "250.*": "Diabetes",
-            "[4][6-9][0-9]|[5][0-1][0-9]|786": "Respitory Issue",
-            "[5][8-9][0-9]|[6][0-2][0-9]|788": "Genitourinary Issue"
+            "[4][6-9][0-9]|[5][0-1][0-9]|786": "Respitory Issues",
+            "[5][8-9][0-9]|[6][0-2][0-9]|788": "Genitourinary Issues"
         }
     )
+    diagnoses = ["Respitory Issues", "Diabetes", "Genitourinary Issues", "Musculoskeltal Issues"]
+    df.loc[:, "primary_diagnosis"] = df["primary_diagnosis"].apply(lambda x: x if x in diagnoses else "Other")
+
+
 
     #Binarize and bin features
     df.loc[:, "medicare"] = (df.payer_code == "MC")
