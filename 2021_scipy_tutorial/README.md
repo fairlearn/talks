@@ -44,9 +44,4 @@ The processed dataset we use is located in `data/diabetic_preprocessed.csv`. If 
 This tutorial was developed by a team of Fairlearn contributors.
 [Fairlearn](www.fairlearn.org) is an open-source, community-driven project to help data scientists improve fairness of AI systems. It includes a Python library for assessing and mitigating fairness-related harms, and various educational resources.
 
-Fairlearn is built on top of popular Python data science libraries, such as [pandas](https://pandas.pydata.org/) and [scikit-learn](https://scikit-learn.org/stable/index.html).  
-
-
-
-
-
+Fairlearn is built on top of popular Python data science libraries, such as [pandas](https://pandas.pydata.org/) and [scikit-learn](https://scikit-learn.org/stable/index.html).
