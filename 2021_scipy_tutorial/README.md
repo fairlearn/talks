@@ -4,6 +4,10 @@ _Tuesday, July 13 from 9:00 AM - 1:00 PM CDT_
 
 Fairness in AI systems is an interdisciplinary field of research and practice that aims to understand and address some of the negative impacts of AI systems on society. In this tutorial, we will walk through the process of assessing and mitigating fairness-related harms in the context of the U.S. health care system. This tutorial will consist of a mix of instructional content and hands-on demonstrations using Jupyter notebooks. Participants will use the Fairlearn library to assess ML models for performance disparities across different racial groups and mitigate those disparities using a variety of algorithmic techniques.
 
+### Breakout Discussion
+
+During the tutorial, we will be using Google Meet for a 30 minute breakout session to discuss the material in groups. Participation in the breakout sessions is encouraged, but not required to follow along with the tutorial.
+
 ## Set-up Instructions
 
 ### Option 1: Google Colab
