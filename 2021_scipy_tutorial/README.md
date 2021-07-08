@@ -4,11 +4,15 @@ _Tuesday, July 13 from 9:00 AM - 1:00 PM CDT_
 
 Fairness in AI systems is an interdisciplinary field of research and practice that aims to understand and address some of the negative impacts of AI systems on society. In this tutorial, we will walk through the process of assessing and mitigating fairness-related harms in the context of the U.S. health care system. This tutorial will consist of a mix of instructional content and hands-on demonstrations using Jupyter notebooks. Participants will use the Fairlearn library to assess ML models for performance disparities across different racial groups and mitigate those disparities using a variety of algorithmic techniques.
 
+### Breakout Discussion
+
+During the tutorial, we will be using Google Meet for a 30-minute breakout session to discuss the material in small groups. Participation in the breakout session is encouraged, but not required to follow along with the tutorial.
+
 ## Set-up Instructions
 
 ### Option 1: Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fairlearn/talks/blob/main/2021_scipy_tutorial/fairness-in-AI-systems.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fairlearn/talks/blob/main/2021_scipy_tutorial/fairness-in-AI-systems-student.ipynb)
 
 For this tutorial, we encourage participants to run the tutorial notebook through Google Colab to avoid issues with local environment set-up. Click on the button above to launch the free compute environment for executing the Jupyter notebook and writing Python code. 
 
@@ -17,7 +21,7 @@ For this tutorial, we encourage participants to run the tutorial notebook throug
 
 If you want to follow along in this tutorial on your local machine, we recommend using the [Anaconda Python distribution](https://www.anaconda.com/products/individual).
 
-Participants will need to download the Jupyter notebook _name goes here_.
+Participants will need to download the Jupyter notebook [fairness-in-AI-systems-student.ipynb](https://raw.githubusercontent.com/fairlearn/talks/main/2021_scipy_tutorial/fairness-in-AI-systems-student.ipynb).
 
 In a Python virtual environment (Python version >= 3.7), install the necessary libraries by running the following command:
 
