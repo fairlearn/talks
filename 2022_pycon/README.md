@@ -12,7 +12,7 @@ Participants are expected to have intermediate Python skills and familiarity wit
 
 ### Option 1: Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fairlearn/talks/blob/main/2021_scipy_tutorial/fairness-in-AI-systems-student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeJit/talks/blob/pycon_2022/2022_pycon/pycon-2022-students.ipynb)
 
 For this tutorial, we encourage participants to run the tutorial notebook through Google Colab to avoid issues with local environment set-up. Click on the button above to launch a free compute envrionment for executing the Jupyter notebook and writing Python code. 
 
@@ -20,7 +20,7 @@ For this tutorial, we encourage participants to run the tutorial notebook throug
 
 If you want to follow along in this tutorial on your local machine, we recommend using the [Anaconda Python distribution](https://www.anaconda.com/products/individual).
 
-Participants will need to download the Jupyter notebook [pycon-2022-students.ipynb](https://raw.githubusercontent.com/fairlearn/talks/main/2021_scipy_tutorial/fairness-in-AI-systems-student.ipynb).
+Participants will need to download the Jupyter notebook [pycon-2022-students.ipynb](https://raw.githubusercontent.com/LeJit/talks/pycon_2022/2022_pycon/pycon-2022-students.ipynb).
 
 #### __Conda installation__
 
