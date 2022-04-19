@@ -11,4 +11,4 @@ dependencies:
   - seaborn>=0.11
   - scikit-learn>=1.0.0
   - pip:
-      - model-card-toolkit
+      - model-card-toolkit>=1.0.0
