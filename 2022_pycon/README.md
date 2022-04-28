@@ -20,7 +20,7 @@ For this tutorial, we encourage participants to run the tutorial notebook throug
 
 If you want to follow along in this tutorial on your local machine, we recommend using the [Anaconda Python distribution](https://www.anaconda.com/products/individual).
 
-Participants will need to download the Jupyter notebook [pycon-2022-students.ipynb](https://raw.githubusercontent.com/LeJit/talks/pycon_2022/2022_pycon/pycon-2022-students.ipynb).
+Participants will need to download the Jupyter notebook [pycon-2022-students.ipynb](https://github.com/fairlearn/talks/blob/main/2022_pycon/pycon-2022-students.ipynb).
 
 #### __Conda installation__
 
